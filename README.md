@@ -14,7 +14,8 @@ sudo docker run --rm -v $(pwd): $(pwd) -w  $(pwd) -e ICODE=xxxxxx cap1573/cap-to
 4.请勿多人使用统一个 icode 码（会被慕课网检测封号）。
 5.这里git.imooc.com/cap1573/podApi仓库 名字需要和 go mod 名称一致
 ```
- 
+
+
 
 ## 2.根据 proto 自动生成 go 基础代码
 ```
